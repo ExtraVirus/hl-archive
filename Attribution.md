@@ -30,7 +30,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 ## Half-Life 2 Episode 1 Builds
 | Build Number | File Name | Sourced By |
 |--|--|--|
-| 2761 | HL2 EP1 - 2761 - [May 30 2006].rar | BitRain |
+| 2761 | HL2 EP1 - 2761 - [May 30 2006][Release Version].rar | BitRain |
 | 4044 | HL2 EP1 - 4044 - [Dec 3 2009][Old Engine Source Mod].rar | ExtraVirus |
 | 3264 | HL2EP1 - 3264 - [Oct 15 2007].rar | ExtraVirus |
 | 3945 | EP1 - 3945 - [Aug 26 2009].rar | ExtraVirus |
@@ -43,7 +43,8 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 3338 | EP2 - 3338 - [Dec 27 2007].rar | ExtraVirus |
 | 3420 | EP2 - 3420 - [Mar 19 2008].rar | ExtraVirus |
 | 3467 | EP2 - 3467 - [May 6 2008].rar | ExtraVirus |
-| 4295 | EP2 - 4231 - [Aug 11 2010].rar | ExtraVirus |
+| 3943 | EP2 - 3943 - [Sep 2 2009].rar | ExtraVirus |
+| 4295 | EP2 - 4295 - [Aug 11 2010].rar | ExtraVirus |
 
 ## Half-Life 2 Lost Coast
 | Build Number | File Name | Sourced By |
@@ -55,3 +56,5 @@ Credit to the people that sourced each version found in this ***private*** archi
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 3258 | Portal - 3258 - [Oct 9 2007].7z | ExtraVirus |
+| 3943 | Portal - 3943 - [Sep 2 2009].rar | ExtraVirus |
+| 3943 | Portal Prelude - 3943 - [Sep 2 2009].rar | ExtraVirus |
