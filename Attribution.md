@@ -43,7 +43,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 3338 | EP2 - 3338 - [Dec 27 2007].rar | ExtraVirus |
 | 3420 | EP2 - 3420 - [Mar 19 2008].rar | ExtraVirus |
 | 3467 | EP2 - 3467 - [May 6 2008].rar | ExtraVirus |
-| 4295 | EP2 - 4231 - [Aug 11 2010].rar | ExtraVirus |
+| 4295 | EP2 - 4295 - [Aug 11 2010].rar | ExtraVirus |
 
 ## Half-Life 2 Lost Coast
 | Build Number | File Name | Sourced By |
